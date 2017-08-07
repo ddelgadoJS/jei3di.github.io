@@ -1,9 +1,6 @@
-# Hi, I'm Daniel!
+# **Hi, I'm Daniel!**
 
+## Working hard on this :)
 
-
-## Work in progress :)
-
-
-### Contact me on [Twitter](https://twitter.com/jei3di) or [LinkedIn](https://www.linkedin.com/in/jdanieldelgado/)
-### And here are my projects: [GitHub](https://github.com/jei3di)
+### Say hello on [Twitter](https://twitter.com/jei3di) or [LinkedIn](https://www.linkedin.com/in/jdanieldelgado/)
+### Check my code on [GitHub](https://github.com/jei3di)
